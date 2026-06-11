@@ -1,16 +1,47 @@
-## Hi there 👋
+# Anass El Alaoui
 
-<!--
-**anass-el-alaoui-es-sousy/anass-el-alaoui-es-sousy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Licence MIASHS à l’Université Toulouse - Jean Jaurès, je recherche une alternance pour ma L3 en 2026-2027 dans le domaine du test logiciel, de la validation système, de l’automatisation de tests ou de l’analyse de données.
 
-Here are some ideas to get you started:
+## Profil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ma formation m’a permis de travailler sur la programmation, les bases de données, le développement web, l’algorithmique, les statistiques et l’analyse fonctionnelle.
+
+Je m’intéresse particulièrement aux missions liées à la compréhension d’exigences, à l’analyse de résultats, à la comparaison entre comportement attendu et comportement observé, ainsi qu’à l’amélioration d’outils techniques.
+
+## Compétences techniques
+
+* Python
+* SQL / SQLite
+* HTML / CSS / JavaScript
+* R / R Markdown
+* Tkinter
+* Analyse de données
+* Analyse fonctionnelle
+
+## Projets principaux
+
+### Application de domotique — Python / Tkinter
+
+Application interactive de gestion d’équipements domestiques : pièces, groupes, éclairage, volets, température et automatismes horaires.
+
+Compétences travaillées : logique métier, gestion d’états, interface graphique, validation de règles fonctionnelles.
+
+### Projet Info-Stat Occitanie — Python / SQLite / SQL / R
+
+Projet collectif d’analyse de données environnementales en Occitanie.
+
+Compétences travaillées : import de fichiers CSV, base SQLite, requêtes SQL, dédoublonnage, exports et visualisations statistiques.
+
+### Calculateur d’empreinte carbone étudiante — HTML / CSS / JavaScript
+
+Application web individuelle permettant d’estimer l’empreinte carbone hebdomadaire d’un étudiant.
+
+Compétences travaillées : formulaires, calculs automatiques, localStorage, restitution de résultats.
+
+## Objectif
+
+Trouver une alternance L3 MIASHS en test logiciel, validation système, automatisation de tests ou analyse de données, principalement sur Toulouse.
+
+## Contact
+
+LinkedIn : https://www.linkedin.com/in/anass-el-alaoui-es-sousy
