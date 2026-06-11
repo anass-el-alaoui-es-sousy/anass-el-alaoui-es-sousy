@@ -20,6 +20,15 @@ Je m’intéresse particulièrement aux missions liées à la compréhension d�
 
 ## Projets principaux
 
+### Calculateur d’empreinte carbone étudiante — HTML / CSS / JavaScript
+
+Application web individuelle permettant d’estimer l’empreinte carbone hebdomadaire d’un étudiant à partir de ses habitudes de transport, repas et usages numériques.
+
+Démo : https://anass-el-alaoui-es-sousy.github.io/calculateur-empreinte-carbone/index.html
+Code : https://github.com/anass-el-alaoui-es-sousy/calculateur-empreinte-carbone
+
+Compétences travaillées : formulaires, calculs automatiques, localStorage, dashboard dynamique, restitution de résultats.
+
 ### Application de domotique — Python / Tkinter
 
 Application interactive de gestion d’équipements domestiques : pièces, groupes, éclairage, volets, température et automatismes horaires.
@@ -31,12 +40,6 @@ Compétences travaillées : logique métier, gestion d’états, interface graph
 Projet collectif d’analyse de données environnementales en Occitanie.
 
 Compétences travaillées : import de fichiers CSV, base SQLite, requêtes SQL, dédoublonnage, exports et visualisations statistiques.
-
-### Calculateur d’empreinte carbone étudiante — HTML / CSS / JavaScript
-
-Application web individuelle permettant d’estimer l’empreinte carbone hebdomadaire d’un étudiant.
-
-Compétences travaillées : formulaires, calculs automatiques, localStorage, restitution de résultats.
 
 ## Objectif
 
