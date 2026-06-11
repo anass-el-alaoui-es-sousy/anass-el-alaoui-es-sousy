@@ -24,7 +24,7 @@ Je m’intéresse particulièrement aux missions liées à la compréhension d�
 
 Application web individuelle permettant d’estimer l’empreinte carbone hebdomadaire d’un étudiant à partir de ses habitudes de transport, repas et usages numériques.
 
-Démo : https://anass-el-alaoui-es-sousy.github.io/calculateur-empreinte-carbone/index.html
+Démo : https://anass-el-alaoui-es-sousy.github.io/calculateur-empreinte-carbone/index.html  
 Code : https://github.com/anass-el-alaoui-es-sousy/calculateur-empreinte-carbone
 
 Compétences travaillées : formulaires, calculs automatiques, localStorage, dashboard dynamique, restitution de résultats.
