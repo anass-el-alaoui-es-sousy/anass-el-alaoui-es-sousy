@@ -66,19 +66,16 @@ https://github.com/anass-el-alaoui-es-sousy/calculateur-empreinte-carbone
 
 ### Projet Info-Stat Occitanie — Python / SQLite / SQL / R
 
-Projet collectif d’analyse de données environnementales en Occitanie.
+Version portfolio d’un projet universitaire collectif consacré à l’analyse de données environnementales.
 
-Travaux réalisés :
+Ma contribution personnelle clairement identifiable porte sur l’analyse statistique de l’influence du type de station sur les concentrations de NO2. Le dépôt comprend également une version reproductible du pipeline collectif avec données synthétiques, contrôles de cohérence et 10 tests automatisés.
 
-* import et traitement de fichiers CSV ;
-* création et exploitation d’une base SQLite ;
-* requêtes SQL ;
-* dédoublonnage et contrôle de cohérence ;
-* création de tables dérivées ;
-* exports de données ;
-* analyses et visualisations statistiques avec R.
+**Code :**  
+https://github.com/anass-el-alaoui-es-sousy/info-stat-occitanie-portfolio
 
-**Compétences travaillées :** Python, SQLite, SQL, R, R Markdown, traitement de données et travail en équipe.
+**Compétences travaillées :** Python, SQLite, SQL, R Markdown, traitement de données, déduplication, validation de données et tests automatisés.
+
+---
 
 ## Objectif
 
